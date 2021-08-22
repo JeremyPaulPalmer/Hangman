@@ -1,3 +1,3 @@
 # Hangman
 
-# One player Hangman game from scratch
+One player Hangman game from scratch
